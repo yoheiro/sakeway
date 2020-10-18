@@ -1,5 +1,5 @@
 const peer = new Peer({
-    key:'f0380daa-b6a9-43c6-b015-249eb77f026f',
+    key:'APIkey',
     debug: 3
   });
 
